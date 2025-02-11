@@ -1,0 +1,4 @@
+#ignore module
+ node_modules/
+#igonre .env 
+ .env
